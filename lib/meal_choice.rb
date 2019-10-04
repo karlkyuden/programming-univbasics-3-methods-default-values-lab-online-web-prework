@@ -5,4 +5,4 @@ def meal_choice(veg1, veg2, protein = "meat")
 end
 
 puts "What a nutritious meal!"
-meal_choice
+
